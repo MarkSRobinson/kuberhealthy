@@ -1089,4 +1089,36 @@ entries:
     urls:
     - https://kuberhealthy.github.io/kuberhealthy/helm-repos/archives/kuberhealthy-2.1.0.tgz
     version: 2.1.0
-generated: "2023-12-07T06:57:57.293814336Z"
+  - apiVersion: v2
+    appVersion: v2.7.1
+    created: "2024-01-02T18:02:57.484977442Z"
+    description: An operator for synthetic test and monitoring. Works great with Prometheus.
+    digest: 3ce06ea96cc73446074eaf412d3609559a722aa1240eb2a9c603731e2d081a22
+    home: https://kuberhealthy.github.io/kuberhealthy/
+    icon: https://raw.githubusercontent.com/kuberhealthy/kuberhealthy/master/images/logo-square.png
+    keywords:
+    - kuberhealthy
+    - kubernetes
+    - operator
+    - monitoring
+    - synthetic
+    - testing
+    - comcast
+    - health
+    - prometheus
+    maintainers:
+    - email: ericgreer@gmail.com
+      name: integrii
+    - email: jonathan_phan@comcast.com
+      name: jonnydawg
+    - email: joshulyne_park@comcast.com
+      name: joshulyne
+    name: kuberhealthy
+    sources:
+    - https://github.com/kuberhealthy/kuberhealthy
+    - https://github.com/kuberhealthy/kuberhealthy/tree/master/deploy/helm/kuberhealthy
+    type: application
+    urls:
+    - https://kuberhealthy.github.io/kuberhealthy/helm-repos/archives/kuberhealthy-1.tgz
+    version: "1"
+generated: "2024-01-02T18:02:57.480257053Z"
